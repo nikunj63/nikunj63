@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Nikunj Shukla, a passionate software developer with a focus on mobile and web development. I enjoy working with a wide range of technologies and constantly strive to improve my skills in creating scalable and high-performance applications.
+👋 Hi there! I'm Nikunj Shukla, a passionate Flutter developer with a focus on mobile and web development. I enjoy working with a wide range of technologies and constantly strive to improve my skills in creating scalable and high-performance applications.
 
 
 ## 🌐 Socials:
